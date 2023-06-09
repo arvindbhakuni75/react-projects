@@ -1,0 +1,30 @@
+.App {
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  padding: 10px 20px;
+  margin-left: 20px;
+  background-color: rgb(236, 29, 43);
+  border: none;
+  width: 100px;
+  font-weight: bold;
+  font-size: 22px;
+  color: white; 
+}
+h1{
+    margin-left: 20px;
+}
+
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+

@@ -1,0 +1,34 @@
+{
+    "user": [
+      {
+        "id": 1,
+        "name": "Laxita Bhakuni",
+        "email": "laxita@gmail.com",
+        "url": "https://www.seiu1000.org/sites/main/files/main-images/camera_lense_0.jpeg"
+      },
+      {
+        "id": 3,
+        "name": "Pratush",
+        "email": "pratush@gmail.com",
+        "url": "https://via.placeholder.com/600/92c952"
+      },
+      {
+        "name": "Arvind ",
+        "email": "ab@gmail.com",
+        "url": "https://via.placeholder.com/600/24f355",
+        "id": 5
+      },
+      {
+        "name": "vishal ",
+        "email": "v@gmail.com",
+        "url": "https://via.placeholder.com/600/92c952",
+        "id": 6
+      },
+      {
+        "name": "sisu ",
+        "email": "v@gmail.com",
+        "url": "https://via.placeholder.com/600/24f355",
+        "id": 6
+      }
+    ]
+  }

@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.box {
+  background-color: purple;
+  color: white;
+}
+
+.addStudent {
+  color: white;
+  background-color: rgb(10, 144, 10);
+}
+
+.tableHadCell {
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.studentList{
+  background-color: orange;
+}
